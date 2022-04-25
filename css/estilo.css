@@ -1,0 +1,32 @@
+
+p {
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    color: #040523;
+    text-align: center;
+}
+
+h2 {
+    color: #EC200B;
+    text-align: left;
+}
+h4 {
+    color: black;
+    text-align: left;
+}
+h5 {
+    color: #EC200B;
+    text-align: center;
+}
+h6 {
+    color: black;
+    text-align: center
+}
+button {
+    color: black;
+    text-align: center
+
+}
